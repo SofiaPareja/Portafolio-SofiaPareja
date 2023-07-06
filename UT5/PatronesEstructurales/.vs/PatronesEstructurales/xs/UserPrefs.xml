@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{6B5967DC-7BCC-48E5-B089-092688D0C382}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PatronesEstructurales/Proxy.cs">
+    <Files>
+      <File FileName="PatronesEstructurales/Program.cs" Line="7" Column="5" />
+      <File FileName="PatronesEstructurales/Adapter.cs" Line="58" Column="6" />
+      <File FileName="PatronesEstructurales/Bridge.cs" Line="185" Column="36" />
+      <File FileName="PatronesEstructurales/DEcorator.cs" Line="79" Column="2" />
+      <File FileName="PatronesEstructurales/Facade.cs" Line="55" Column="37" />
+      <File FileName="PatronesEstructurales/Proxy.cs" Line="42" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PatronesEstructurales" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PatronesEstructurales FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
